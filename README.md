@@ -28,7 +28,10 @@ Nowadays I'm a data engineering inter on Grupo AG Capital.
 - Linux
 - Node.js
 
+<!-- 
 #### Graduation
-Graduating in system analysis and development course on CESUSC college
+Graduating in system analysis and development course on CESUSC college 
+-->
+
 
 
