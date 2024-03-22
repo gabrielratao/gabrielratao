@@ -15,4 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
+#### About me
+
+#### 🔭 Current jog
+Nowadays I'm a data engineering inter on Grupo AG Capital.
+
+#### ✨ Technologies
+- Python
+- PostgreSQL
+- API RESTful
+- AWS
+- Linux
+- Node.js
+
+#### Graduation
+Graduating in system analysis and development course on CESUSC colege
+
+
