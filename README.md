@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### About me
 
-#### 🔭 Current jog
+#### 🔭 Current job
 Nowadays I'm a data engineering inter on Grupo AG Capital.
 
 #### ✨ Technologies
