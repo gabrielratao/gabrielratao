@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### About me
 
 #### 🔭 Current job
-Nowadays I'm a data engineering inter on Grupo AG Capital.
+I'm a data engineering inter at Grupo AG Capital.
 
 #### ✨ Technologies
 - Python
